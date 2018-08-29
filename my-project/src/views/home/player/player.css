@@ -1,0 +1,13 @@
+
+.lyrics{
+    /* width: 100px; */
+    line-height: 25px;
+    font-size: 16px;
+    margin: 0 auto;
+}
+#audio{
+    width: 100px;
+    position: absolute;
+    top: 90px;
+    right: 0px;
+}

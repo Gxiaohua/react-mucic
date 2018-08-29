@@ -1,0 +1,13 @@
+.searchSong{
+    height: 30px;
+}
+.searchMon{
+    margin-top: 10px;
+}
+input{
+    width: 86%;
+    height: 22px;
+}
+button{
+    height: 28px;
+}
